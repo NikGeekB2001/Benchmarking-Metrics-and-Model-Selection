@@ -1,0 +1,37 @@
+# Игнорируемые файлы и директории
+/node_modules/
+/venv/
+/__pycache__/
+/.DS_Store
+
+# Окружение
+.env
+.local
+.venv
+env/
+venv/
+ENV/
+
+# Сборка и дистрибутивы
+/build/
+/dist/
+/out/
+/coverage/
+
+# Логи и кэши
+*.log
+*.cache
+*.tmp
+*.bak
+
+# Текстовые редакторы
+*.swp
+*.swo
+*.swn
+.idea/
+.vscode/
+
+// ... остальные правила ...
+
+presentation.md
+"Final Project Notebook.md"
